@@ -1,0 +1,6 @@
+---
+applications:
+- name: azure-uploader
+  memory: 64M
+  services:
+    - myAzureStorage
